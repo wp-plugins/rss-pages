@@ -10,7 +10,9 @@ Replace the normal posts rss feeds with the rss feeds of pages.
 
 == Description ==
 
-One problem with Wordpress is that the RSS feed only contains the latests posts and not pages. The idea I suppose is to have a feed which the blogosphere can use to know when there is updated news on your site. That's ok for most Wordpress sites but when you are using as Wordpress as a CMS and thus using pages and not posts you can't by put the pages into a feed. This plugin replace your posts feeds with pages feeds.
+One problem with Wordpress is that the RSS feed only contains the latests posts and not pages. The idea I suppose is to have a feed which the blogosphere can use to know when there is updated news on your site. That's ok for most Wordpress sites but when you are using as Wordpress as a CMS and thus using pages and not posts you can't put the pages into a feed. 
+
+Note: This plugin replace your posts feed with page feeds.
 
 == Installation ==
 
