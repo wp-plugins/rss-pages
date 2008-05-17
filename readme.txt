@@ -19,6 +19,10 @@ This section describes how to install the plugin and get it working.
 1. Upload `rss-pages.php` to the `/wp-content/plugins/rss-pages/` directory
 2. Activate the `rss-pages plugin` through the 'Plugins' menu in WordPress
 3. Done - Your feeds will now include pages and not posts
+4. If you are using a wordpress version below 2.6 you will need to patch Wordpress with the patch found here [Wordpress Add_Feed Bug and Fix](http://programming.has.no.com/2008/05/14/wordpress-add_feed-bug-fix/ "Wordpress Add_Feed Patch")
+
+
+
 
 == Frequently Asked Questions ==
 
