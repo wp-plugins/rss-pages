@@ -1,16 +1,19 @@
-=== Plugin Name ===
+=== RSS Pages===
 Contributors: programming.has.no.com
 Donate link: http://programming.has.no.com/
 Tags: rss, pages
 Requires at least: 2.6
-Tested up to: 2.6
-Stable tag: 1
+Tested up to: 2.9
+Stable tag: 1.4
 
-Replace the normal posts rss feeds with the rss feeds of pages.
+Replace the normal posts rss feeds with pages feed. For Wordpress 3+ use http://wordpress.org/extend/plugins/rss-pages-for-wordpress-v3/
+
 
 == Description ==
 
 One problem with Wordpress is that the RSS feed only contains the latests posts and not pages. The idea I suppose is to have a feed which the blogosphere can use to know when there is updated news on your site. That's ok for most Wordpress sites but when you are using as Wordpress as a CMS and thus using pages and not posts you can't put the pages into a feed. 
+
+For Wordpress v3+ please use http://wordpress.org/extend/plugins/rss-pages-for-wordpress-v3/
 
 Note: This plugin replace your posts feed with page feeds.
 
@@ -34,5 +37,8 @@ I have a problem? Leave a message on [RSS Pages Home](http://programming.has.no.
 
 1. Screenshot of RSS Pages Plugin
 
-`<?php code(); // goes in backticks ?>`
+== Upgrade Notice ==
+
+= 1.4 =
+End of Wordpress 2.x support - For Wordpress 3+ please use http://wordpress.org/extend/plugins/rss-pages-for-wordpress-v3/
 
