@@ -4,7 +4,7 @@ Plugin Name: RSS Pages For Wordpress
 Plugin URI: http://programming.has.no.com/2008/05/14/wordpress-rss-pages-plugin/
 Description: Display wordpress pages in a rss feed
 Author: Programming.has.no.com
-Version: 1.0
+Version: 1.4
 Author URI: http://programming.has.no.com/
 */
 
